@@ -7,9 +7,7 @@ f = FactorDB(num)
 f.connect()
 factors = f.get_factor_list()
 
-p = getPrime(512)
-q = getPrime(512)
-n = p*q
+n = getPrime(1024)
 
 print(f"n = {n}")
 for factor in factors :
