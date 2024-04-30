@@ -1,7 +1,7 @@
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 from Crypto.Util.number import bytes_to_long
-FLAG = b'REDACTED'
+from secret import FLAG
 
 
 # Generate a new RSA key pair
