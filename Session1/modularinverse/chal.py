@@ -1,5 +1,3 @@
-from calendar import c
-import random
 from Crypto.Util.number import getPrime,getRandomInteger,bytes_to_long
 from secret import flag 
 p = getPrime(512)
