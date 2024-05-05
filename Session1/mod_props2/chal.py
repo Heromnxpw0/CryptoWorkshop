@@ -14,3 +14,4 @@ phi = n - 1
 for factor in factors:
     factor = getRandomInteger(512) * n - phi * factor
     print(f"factor = {factor}")
+
