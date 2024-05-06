@@ -1,1 +1,1 @@
-flag = b"flag{primes_longer_than_ur_mom}"
+flag = b"flag{Ziad_a2hhd2Fs}"
