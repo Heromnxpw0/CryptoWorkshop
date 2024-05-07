@@ -5,7 +5,7 @@ print(message)
 
 flag = bytes_to_long(flag)
 
-for i in range(len(bin(flag) - 2)):
+for i in range(len(bin(flag)) - 2):
     known = int(input("Known >").strip())
     g = int(input("a >").strip())
     assert g > 0

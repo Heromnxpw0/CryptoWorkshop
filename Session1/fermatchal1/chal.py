@@ -9,7 +9,7 @@ print(f"hint: {phi}")
 a = input("Enter a >")
 a = int(a.strip())
 
-if a == phi or phi < 1:
+if a == phi or a < 1:
     print("Nope")
     exit()
     
