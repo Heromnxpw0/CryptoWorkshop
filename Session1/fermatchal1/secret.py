@@ -1,1 +1,1 @@
-flag = b"flag{i_did_not_steal_this_from_mindflayer}"
+flag = b"flag{kakalolnjj_didn't_say_oniichan}"
