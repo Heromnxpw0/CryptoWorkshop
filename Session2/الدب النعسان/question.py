@@ -15,7 +15,6 @@ phi = (p-1)*(q-1)
 
 ct = pow(bytes_to_long(FLAG), e, n)
 
-print(f"e = {e}")
 print(f"phi = {phi}")
 print(f"ct = {ct}")
 print(f"p = {p}")
