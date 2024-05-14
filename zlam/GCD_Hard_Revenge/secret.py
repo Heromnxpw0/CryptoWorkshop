@@ -1,1 +1,1 @@
-flag = b"flag{abdelmajeed_thinks_he_knows_CRT}"
+flag = b"flag{no_more_challs_from_madi_ziadstr_is_coming_for_you}"
