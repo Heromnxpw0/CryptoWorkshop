@@ -1,0 +1,1 @@
+flag = b"flag{https://www.leagueoflegends.com/en-gb/champions/zoe/}"
