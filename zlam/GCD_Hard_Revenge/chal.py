@@ -1,6 +1,7 @@
 from Crypto.Util.number import *
 from secret import flag
 real_flag = flag
+
 flag = getPrime(64)
 
 for i in range(16):
